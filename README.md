@@ -5,7 +5,7 @@ This repository documents my structured journey toward mastering Python, with a 
 
 ---
 
-## 📌 What This Repository Contains
+## 📌 What This Repository Contains:
 
 - Day-wise Jupyter notebooks covering Python concepts in depth  
 - Clear explanations with hands-on examples  
